@@ -1,5 +1,6 @@
 ionic resources --icon android
 ionic resources --splash android
+ionic resources android
 ionic platform add android
 ionic build android
 ionic run android			
