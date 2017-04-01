@@ -1,0 +1,7 @@
+ionic resources --icon android
+ionic resources --splash android
+ionic platform add android
+ionic build android
+ionic run android			
+
+C:\xampp\htdocs\sab\sabadoF\platforms\android\build\outputs\apk
